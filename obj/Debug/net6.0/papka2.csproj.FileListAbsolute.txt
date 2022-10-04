@@ -1,0 +1,15 @@
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.csproj.AssemblyReference.cache
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.AssemblyInfoInputs.cache
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.AssemblyInfo.cs
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.csproj.CoreCompileInputs.cache
+C:\seminar_c#\papka2\bin\Debug\net6.0\papka2.exe
+C:\seminar_c#\papka2\bin\Debug\net6.0\papka2.deps.json
+C:\seminar_c#\papka2\bin\Debug\net6.0\papka2.runtimeconfig.json
+C:\seminar_c#\papka2\bin\Debug\net6.0\papka2.dll
+C:\seminar_c#\papka2\bin\Debug\net6.0\papka2.pdb
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.dll
+C:\seminar_c#\papka2\obj\Debug\net6.0\refint\papka2.dll
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.pdb
+C:\seminar_c#\papka2\obj\Debug\net6.0\papka2.genruntimeconfig.cache
+C:\seminar_c#\papka2\obj\Debug\net6.0\ref\papka2.dll
